@@ -12,4 +12,7 @@ GASのコード管理に[clasp](https://github.com/google/clasp)を使用して�
   https://developers.google.com/apps-script?hl=ja  
 - 公式リファレンス  
   https://developers.google.com/apps-script/reference?hl=ja  
+  - イベントオブジェクト  
+    https://developers.google.com/apps-script/guides/triggers/events?hl=ja  
+    
 
